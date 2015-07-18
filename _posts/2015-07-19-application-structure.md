@@ -7,8 +7,8 @@ categories: yii2 structure
 
 แบบ Basic
 =========
-<code>
-{% highlight bash %}
+
+{% highlight php %}
 basic/                  โปรเจคของเรา
     composer.json       สำหรับกำหนด package ต่างๆ ที่เราติดตั้งด้วย Composer
     config/             สำหรับเก็บไฟล์สำหรับการตั้งค่า
@@ -25,7 +25,7 @@ basic/                  โปรเจคของเรา
         index.php       ไฟล์เริ่มต้น app
     yii                 ใช้สำหรับรันคำสั่งต่างๆ ของ Yii ใน console
 {% endhighlight %}
-</code>
+
 <br>
 
 แบบ Advance
@@ -43,8 +43,8 @@ Yii แบ่งโปรเจคเป็น 3 application คือ
 * `environments/` เก็บ config สำหรับโปรเจคใน environment ต่างๆ
 
 ไฟล์อื่นๆ ในโปรเจค
-<code>
-{% highlight bash %}
+
+{% highlight php %}
 .gitignore          ไฟล์สำหรับระบุไฟล์ที่ไม่ต้องการในระบบ git (version system)  
 composer.json       สำหรับกำหนด package ต่างๆ ที่เราติดตั้งด้วย Composer
 init                สคริปที่ใช้รันสำหรับการเตรียม application
@@ -55,4 +55,3 @@ requirements.php    ไฟล์สำหรับตรวจสอบควา
 yii                 ใช้สำหรับรันคำสั่งต่างๆ ของ Yii ใน console
 yii.bat             เหมือนไฟล์ yii แต่เอาไว้สำหรับ Windows
 {% endhighlight %}
-</code>
