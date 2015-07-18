@@ -16,7 +16,7 @@ permalink: /yii2/
     <h4>Getting Started</h4>
     <ul>
         <li><a href="{% post_url 2015-07-17-installing-yii2 %}">การติดตั้ง</a></li>
-        <li>โครงสร้างของ Yii2</li>
+        <li><a href="{% post_url 2015-07-19-application-structure %}">โครงสร้างของ application</a></li>
         <li>Hello World</li>
     </ul>
     <br>
