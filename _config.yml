@@ -3,7 +3,8 @@ title: katanyoo.com
 email: ubalee.k@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   อยากจะเป็นบล็อกเกอร์กับเค้าบ้าง แต่รู้สึกว่ากว่าจะเขียนเสร็จแต่ละบทความ
-  มันช่างดูดพลังซะเหลือเกิน, ความรู้ก็มีเรื่องเขียนโปรแกรมนี่แหละ, ศึกษาอะไรใหม่ไปเรื่อย, อยู่นิ่งไม่ค่อยได้ต้องหาอะไรทำ นอกจากจะหลับ
+  มันช่างดูดพลังซะเหลือเกิน, ความรู้ก็มีเรื่องเขียนโปรแกรมนี่แหละ, 
+  ศึกษาอะไรใหม่ไปเรื่อย, อยู่นิ่งไม่ค่อยได้ต้องหาอะไรทำ นอกจากจะหลับ
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://katanyoo.com" # the base hostname & protocol for your site
 twitter_username: katanyoo
