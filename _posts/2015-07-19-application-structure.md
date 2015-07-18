@@ -2,13 +2,13 @@
 layout: post
 title:  "โครงสร้างของ application"
 date:   2015-07-19 01:46:00
-categories: yii2 structure
+categories: yii2
 ---
 
 แบบ Basic
 =========
 
-{% highlight php %}
+{% highlight bash %}
 basic/                  โปรเจคของเรา
     composer.json       สำหรับกำหนด package ต่างๆ ที่เราติดตั้งด้วย Composer
     config/             สำหรับเก็บไฟล์สำหรับการตั้งค่า
@@ -44,7 +44,7 @@ Yii แบ่งโปรเจคเป็น 3 application คือ
 
 ไฟล์อื่นๆ ในโปรเจค
 
-{% highlight php %}
+{% highlight bash %}
 .gitignore          ไฟล์สำหรับระบุไฟล์ที่ไม่ต้องการในระบบ git (version system)  
 composer.json       สำหรับกำหนด package ต่างๆ ที่เราติดตั้งด้วย Composer
 init                สคริปที่ใช้รันสำหรับการเตรียม application
