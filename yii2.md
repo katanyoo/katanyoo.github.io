@@ -17,7 +17,7 @@ permalink: /yii2/
     <ul>
         <li><a href="{% post_url 2015-07-17-installing-yii2 %}">การติดตั้ง</a></li>
         <li><a href="{% post_url 2015-07-19-application-structure %}">โครงสร้างของ application</a></li>
-        <li><a href="{% post_url 2015-07-19-say-hello %}">Hello World</a></li>
+        <li><a href="{% post_url 2015-07-19-say-hello %}">สวัสดี ชาวโลก!</a></li>
     </ul>
     <br>
 
