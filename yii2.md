@@ -8,7 +8,7 @@ permalink: /yii2/
     <h4>Introduction</h4>
     <ul>
         <li>เกี่ยวกับ Yii2</li>
-        <li>การอัพเกรดจาก Yii1 มาเป็น Yii2</li>
+        <li><a href="{% post_url 2015-07-19-upgrading-to-yii2 %}">การอัพเกรดจาก Yii1 มาเป็น Yii2</a></li>
         <li>เตรียมเครื่องให้พร้อม</li>
     </ul>
     <br>
