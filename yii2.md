@@ -23,7 +23,7 @@ permalink: /yii2/
 
     <h4>Configuration</h4>
     <ul>
-        <li>การตั้งค่าโปรเจค</li>
+        <li><a href="{% post_url 2015-07-25-project-configuration %}">การตั้งค่าโปรเจค</a></li>
         <li>การตั้งค่าเว็บเซิร์ฟเวอร์
             <ul>
                 <li>apache</li>
