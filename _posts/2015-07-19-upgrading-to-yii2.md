@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "การอัพเกรดจาก Yii1 มาเป็น Yii2"
 date:   2015-07-19 07:01:00
 categories: yii2

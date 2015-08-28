@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "การคงสัดส่วน (ratio) ของ div"
 date:   2015-08-29 04:40:00
 categories: css-tricks

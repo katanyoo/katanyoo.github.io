@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "การติดตั้ง Yii2"
 date:   2015-07-17 21:41:00
 categories: yii2

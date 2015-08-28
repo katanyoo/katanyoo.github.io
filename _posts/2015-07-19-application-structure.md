@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "โครงสร้างของ application"
 date:   2015-07-19 01:46:00
 categories: yii2

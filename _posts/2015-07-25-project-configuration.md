@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "ไฟล์สำหรับตั้งค่าโปรเจค"
 date:   2015-07-25 23:00:00
 categories: yii2
