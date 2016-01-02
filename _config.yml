@@ -10,3 +10,9 @@ github_username:  katanyoo
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-gist
+
+gist:
+  noscript: false
